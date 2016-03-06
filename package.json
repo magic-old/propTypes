@@ -28,5 +28,8 @@
       "name": "jascha ehrenreich",
       "github": "jaeh"
     }
-  ]
+  ],
+  "dependencies": {
+    "react": "0.14.7"
+  }
 }
