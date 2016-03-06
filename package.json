@@ -1,0 +1,32 @@
+{
+  "name": "magic-propTypes",
+  "version": "0.0.1",
+  "description": "propType collection for react",
+  "author": "Wizards & Witches <team@wiznwit.com>",
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "devDependencies": {
+    "babel": "4.7.16",
+    "babel-eslint": "5.0.0",
+    "chai": "2.3.0",
+    "eslint": "2.3.0",
+    "eslint-plugin-standard": "1.3.2",
+    "eslint-plugin-tdd": "0.5.0",
+    "estraverse-fb": "1.3.1",
+    "mocha": "2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magic/propTypes"
+  },
+  "bugs": {
+    "url": "https://github.com/magic/propTypes/issues"
+  },
+  "homepage": "https://github.com/magic/propTypes",
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    }
+  ]
+}
